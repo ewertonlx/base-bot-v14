@@ -1,0 +1,7 @@
+module.exports = {
+    name: 'botao',
+    authorOnly: true, // Se só o autor do comando pode usar deixe como true, caso contrário delete esta linha
+    execute: async ({client, interaction, userdb}) => {
+        interaction.reply({content: 'Clicou'})
+    }
+}
