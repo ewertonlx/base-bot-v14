@@ -4,7 +4,7 @@ Uma estrutura simples para você poder iniciar no mundo dos bots utilizando Java
 ## Instalação
 1. Clone o repositório usando o comando:
 ```
-git clone https://github.com/ewertonlx/base-bot-v14
+git clone https://github.com/ewertonlx/base-bot-v14.git
 ```
 2. Instale as dependências do projeto:
 ```
